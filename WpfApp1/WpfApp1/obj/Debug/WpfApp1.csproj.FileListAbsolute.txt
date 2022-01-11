@@ -1,0 +1,135 @@
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\awodz\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Korepetycje\Osoby\AdamWarszawa\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\awodz\Desktop\WpfApp1.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\awodz\source\repos\GK1\Zadanie 2\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Lenovo\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\awodz\Desktop\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Lenovo\Desktop\projekt\projekt2.0\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\awodz\Desktop\projekt2.0.3\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\awodz\Desktop\gk\projekt 2\projekt2.0.3 — kopia\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
